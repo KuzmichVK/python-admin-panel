@@ -5,3 +5,5 @@ __pycache__/
 *.pyc
 *_cache/
 .DS_Store
+user_tests/check_consistency/db.sqlite
+user_tests/check_consistency/db.sqlite
