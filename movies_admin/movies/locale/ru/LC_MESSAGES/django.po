@@ -1,0 +1,96 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-19 00:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
+"(n%100>=11 && n%100<=14)? 2 : 3);\n"
+#: movies/apps.py:8 movies/models.py:56
+msgid "кинопроизведения"
+msgstr ""
+
+#: movies/models.py:9 movies/models.py:38
+msgid "название"
+msgstr ""
+
+#: movies/models.py:10 movies/models.py:39
+msgid "описание"
+msgstr ""
+
+#: movies/models.py:14
+msgid "жанр"
+msgstr ""
+
+#: movies/models.py:15
+msgid "жанры"
+msgstr ""
+
+#: movies/models.py:22
+msgid "полное имя"
+msgstr ""
+
+#: movies/models.py:26
+msgid "персона"
+msgstr ""
+
+#: movies/models.py:27
+msgid "персоны"
+msgstr ""
+
+#: movies/models.py:35
+msgid "фильм"
+msgstr ""
+
+#: movies/models.py:36
+msgid "сериал"
+msgstr ""
+
+#: movies/models.py:40
+msgid "дата премьеры"
+msgstr ""
+
+#: movies/models.py:42
+msgid "рейтинг"
+msgstr ""
+
+#: movies/models.py:48
+msgid "тип"
+msgstr ""
+
+#: movies/models.py:55
+msgid "кинопроизведение"
+msgstr ""
+
+#: movies/models.py:75
+msgid "жанр кинопроизведения"
+msgstr ""
+
+#: movies/models.py:76
+msgid "жанры кинопроизведения"
+msgstr ""
+
+#: movies/models.py:88
+msgid "роль"
+msgstr ""
+
+#: movies/models.py:93
+msgid "участник кинопроизведения"
+msgstr ""
+
+#: movies/models.py:94
+msgid "участники кинопроизведения"
+msgstr ""
